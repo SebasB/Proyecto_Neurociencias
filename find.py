@@ -10,7 +10,6 @@ import numpy as np
 import math
 from matplotlib.pylab import hist,show
 
-
 def find(array, treshold):
             I=[]
             J=[]
